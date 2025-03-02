@@ -9,7 +9,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Music className="h-6 w-6" />
-              <span className="text-xl font-bold">UnifyMusic</span>
+              <span className="text-xl font-bold">MeloMix</span>
             </div>
             <p className="text-gray-400 mb-4">
               The ultimate platform for unifying your music experience across multiple streaming services.

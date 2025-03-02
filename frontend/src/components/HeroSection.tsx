@@ -6,7 +6,7 @@ import { Music, Headphones } from 'lucide-react';
 const HeroSection = () => {
   return (
     <WavyBackground className="max-w-4xl mx-auto pb-40">
-      <div className="text-center px-4">
+      <div className="text-center px-4 pt-60">
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-8">
           Unify Your Music Experience
         </h1>
